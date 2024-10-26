@@ -1,2 +1,3 @@
-*.tsql linguist-language=SQL
 *.py linguist-language=Python
+*.tsql linguist-detectable=true
+*.tsql linguist-language=sql
